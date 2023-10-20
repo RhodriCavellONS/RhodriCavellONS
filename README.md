@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Data Engineering/Architecture Apprentice at the ONS.
+
+I'm currently learning Python.
+
 <!--
 **RhodriCavellONS/RhodriCavellONS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
